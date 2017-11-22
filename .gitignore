@@ -1,0 +1,10 @@
+.idea
+.settings	
+.settings/
+target/
+.classpath
+.project
+*.iml
+src/test
+src/main/resources/conf/zhihu.json
+src/main/resources/conf/db.json

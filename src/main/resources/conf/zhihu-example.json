@@ -1,0 +1,12 @@
+{
+    "time_interval": 30000,
+    "table_group_name": "xxxx",
+    "header": "",
+    "target_user_list": [
+        {
+            "name": "vczh",
+            "url": "https://www.zhihu.com/people/excited-vczh",
+            "activity_table": "vczh_activity"
+        }
+    ]
+}
